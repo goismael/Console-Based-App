@@ -1,0 +1,7 @@
+C:\CC6\DisplayFile1021\bin\Debug\DisplayFile1021.exe.config
+C:\CC6\DisplayFile1021\bin\Debug\DisplayFile1021.exe
+C:\CC6\DisplayFile1021\bin\Debug\DisplayFile1021.pdb
+C:\CC6\DisplayFile1021\obj\Debug\DisplayFile1021.csprojAssemblyReference.cache
+C:\CC6\DisplayFile1021\obj\Debug\DisplayFile1021.csproj.CoreCompileInputs.cache
+C:\CC6\DisplayFile1021\obj\Debug\DisplayFile1021.exe
+C:\CC6\DisplayFile1021\obj\Debug\DisplayFile1021.pdb
